@@ -1,23 +1,26 @@
 {
-  "store_id": 51304,
-  "name": "acupunturaecia",
   "domain": "acupunturaecia.netlify.app",
-  "short_name": "acupunturaecia",
-  "description": "",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/acupunturaecia",
+  "logo": "/img/uploads/logo-acupuntura-e-cia.png",
+  "name": "acupunturaecia",
+  "short_name": "acupunturaecia",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/logo-acupuntura-e-cia.png",
+  "icons_font": "_",
   "country_code": "BR",
-  "repository": "ecomplus-stores/acupunturaecia"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-acupuntura-e-cia.png",
+  "store_id": 51304,
+  "description": "ESPECIALIZADA EM TODA A ÁREA DE ACUPUNTURA, ESTAMOS LOCALIZADOS EM SÃO BERNARDO DO CAMPO.\nVocê poderá adquirir a linha mais completa do mercado em matéria de Acupuntura.\n\nVenha nos fazer uma visita !!!",
+  "large_icon": "/img/uploads/logo-acupuntura-e-cia.png"
 }
