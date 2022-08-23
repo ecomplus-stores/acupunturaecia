@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#ee8100",
   "theme": {
-    "bootswatch": "cosmo",
-    "custom": "clean-white"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/acupunturaecia",
@@ -14,13 +14,13 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Roboto",
   "favicon": "/img/uploads/favicon-2-.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#447bd3",
   "icon": "/img/uploads/logo-acupuntura-e-cia.png",
   "store_id": 51304,
-  "description": "ESPECIALIZADA EM PRODUTOS DE ACUPUNTURA, ESTÉTICA, MASSAGEM E TERAPIAS!!!                             ESTAMOS LOCALIZADOS EM SÃO BERNARDO DO CAMPO - SP \nVocê poderá adquirir a linha mais completa do mercado em produtos de Acupuntura!!!\n\nVenham nos Visitar e aproveite as Promoções!!! ",
+  "description": "Especializada em Produtos de ACUPUNTURA, AURICULOTERAPIA, ESTÉTICA, FISIOTERAPIA, MAGNETORETAPIA, MASSAGEM, MOXATERAPIA, VENTOSATERAPIA e TERAPIAS que beneficiam a SAÚDE !!!\nESTAMOS LOCALIZADOS EM SÃO BERNARDO DO CAMPO - SP                                                                                       \nVocê poderá adquirir a linha mais completa do mercado em produtos de Acupuntura!!!\n\nVenham nos Visitar e aproveite as Promoções!!! ",
   "large_icon": "/img/uploads/logo-acupuntura-e-cia.png"
 }
