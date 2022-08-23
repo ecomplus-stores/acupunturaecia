@@ -3,14 +3,14 @@
   "currency_symbol": "R$",
   "primary_color": "#ee8100",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cosmo",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/acupunturaecia",
   "logo": "/img/uploads/logo-acupuntura-e-cia.png",
   "name": "Acupuntura & Cia",
-  "short_name": "acupunturaecia",
+  "short_name": "ACUPUNTURA E CIA",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
