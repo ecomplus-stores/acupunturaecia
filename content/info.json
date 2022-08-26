@@ -1,15 +1,17 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil !!!",
+    "title": "Retire seu pedido na Loja Física !!!"
   },
   "installments": {
     "show": true,
-    "text": "Parcele Sem Juros!!!"
+    "text": "Parcele Sem Juros !!!",
+    "title": "Pague com Pix e aproveite os Descontos !!!"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Retire "
   },
   "promo": {
     "show": true,
