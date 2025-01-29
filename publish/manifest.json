@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6d807b311a9b548d8f08cb0684114397.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.79ad22d539258e740bd11e4670b3eff6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9a116676388b7bb5f2c060d3c266f808.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.5f292fef06eb1823d74c2f6f8416ee3a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.7db4c803cea2c3a3e8b13a3dbc24087c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Acupuntura & Cia",
+  "short_name": "ACUPUNTURA E CIA",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Especializada em Produtos de ACUPUNTURA, AURICULOTERAPIA, ESTÉTICA, FISIOTERAPIA, MAGNETORETAPIA, MASSAGEM, MOXATERAPIA, VENTOSATERAPIA e TERAPIAS que beneficiam a SAÚDE !!!\nESTAMOS LOCALIZADOS EM SÃO BERNARDO DO CAMPO - SP                                                                                      \nVenham Adquirir Qualidade em Produtos de Acupuntura Sistêmica e Auricular !!!\n\nAproveite nossas Promoções!!!        Ganhe Brindes nas Compras a partir de R$ 200,00 !!! Retire Grátis na Loja Física em São Bernardo do Campo/SP!!!",
+  "background_color": "#ffffff",
+  "theme_color": "#ee8100"
+}
